@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: rgb(33, 37, 41);
+    --foreground: rgb(0, 0, 0);
+  }
+}
